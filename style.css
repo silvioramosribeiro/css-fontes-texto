@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,400;1,500&family=PT+Sans:ital@0;1&display=swap');
+
+/* exercicio 3 e 4 */
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size:24px;
+}
+h3{
+    font-size:20px;
+}
+p{
+    font-size:16px;
+    font-family:'Open Sans';
+}
+a{
+    font-size: 26px;
+    font-family:'Open Sans';
+    text-decoration: none;
+    
+
+}
+button{
+    font-size:16px;
+    font-family:'Open Sans';
+}
+
+.cabecario{
+    font-family: 'open sans';
+}
+
+.titulos-post{
+    text-decoration: underline;
+}
+.imagens{
+    display:block;
+    margin: 0 auto;
+    
+}
+.legenda{
+   text-align: center;
+}
+
+/* edicao cabecário header */
+.cabecario{
+    width: 80%;
+    padding:5% 10%;
+    background-color: #bfbfbf;
+
+}
+
+/* adicionando margens em todos os artigos  */
+
+.atigo{
+    margin: 0 20%;
+}
+
+
+.destaque{
+   
+    margin: 0 20%;
+}
+.destaque h3{
+    color:#95bbdf
+}
+
+
+/* estilizando menu superior NAV */
+.menu{
+    background-color:#000;
+   
+    /* exercicio 9 */
+    padding: 20px;
+    margin:0 10px;
+    
+}
+.menu a{
+    background-color:#fff
+}
+
+/* exercicio 10 */
+.informacao-lateral{
+    width:20%;
+    margin: 5%;
+    float:left;
+}
