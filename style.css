@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,400;1,500&family=PT+Sans:ital@0;1&display=swap');
 
+
 /* exercicio 3 e 4 */
 h1{
     font-size: 36px;
@@ -12,10 +13,10 @@ h3{
 }
 p{
     font-size:16px;
-    font-family:'Open Sans';
+    font-family:'Pt';
 }
 a{
-    font-size: 26px;
+    font-size: 16px;
     font-family:'Open Sans';
     text-decoration: none;
     
@@ -72,16 +73,21 @@ button{
    
     /* exercicio 9 */
     padding: 20px;
-    margin:0 10px;
+    margin:0 ;
+   display: block;
+    
     
 }
 .menu a{
-    background-color:#fff
+    color:#fff;
+    padding: 10px;
 }
 
 /* exercicio 10 */
 .informacao-lateral{
     width:20%;
     margin: 5%;
-    float:left;
+    float:right;
+    padding:20px
+    display: block;
 }
